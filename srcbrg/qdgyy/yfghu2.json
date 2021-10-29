@@ -1,7 +1,7 @@
 {
   "ua": "",
   "dtUrl": "https://www.onedianshi.com/voddetail/{vid}.html",
-  "dtNode": "//div[@class='c-top-main-wrap']",
+  "dtNode": "//body",
   "dtName": "//div[@class='title-left cf']/h1/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='s-cover playlike ec_htbj box']/a/img/@src",
