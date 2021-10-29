@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "dtUrl": "https://www.onedianshi.com/index.php/vod/detail/id/{vid}.html",
+  "dtUrl": "https://www.onedianshi.com/voddetail/{vid}.html",
   "dtNode": "//div[@class='c-top-main-wrap']",
   "dtName": "//div[@class='title-left cf']/h1/text()",
   "dtNameR": "",
