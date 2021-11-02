@@ -17,8 +17,6 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "dtUrl": "https://www.onedianshi.com/index.php/vod/detail/id{vid}.html",
   "dtNode": "//body",
-  "dtName": "//div[@class='title-left cf']/h1/text()",
-  "dtNameR": "",
   "dtName": "//div[@class='qy-animation-content']/div/div[contains(@class,'s-cover playlike')]/a/@title",
   "dtNameR": "",
   "dtImg": "//div[@class='qy-animation-content']/div/div[contains(@class,'s-cover playlike')]/a/img/@sec",
