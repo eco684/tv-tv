@@ -6,7 +6,7 @@
   "dtNameR": "",
   "dtImg": "//div[@class='content_thumb fl']/a[contains(@class,'vodlist_thumb')]/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtUrlNode": "//a[contains(@href, 'javascript:void(0);')]",
+  "dtUrlNode": "//a[contains(@href, 'javascript')]",
   "dtFromName": "/@alt",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@id, 'playlistbox')]/ul[contains(@class, 'content_playlist')]",
