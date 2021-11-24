@@ -23,7 +23,7 @@
   "homeVodImg": "/div/div/img/@src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
-  "cateUrl": "https://www.smdyy.cc/show/{cateId}--------{catePg}---.html",
+  "cateUrl": "https://www.smdyy.cc/show/{cateId}--------{catePg}---2021.html",
   "cateVodNode": "//div[@class='module-item']",
   "cateVodName": "/div/div/a/@title",
   "cateVodId": "/div/div/a/@href",
