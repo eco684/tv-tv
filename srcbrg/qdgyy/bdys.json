@@ -25,7 +25,7 @@
   "奇幻":"qihuan",
   "歷史":"lishi"
 },
-  "homeVodNode": "//div[contains(@class,'row.row-cards')]/div[contains(@class,'col-4')]/div[contains(@class,'card.card-sm')]",
+  "homeVodNode": "//div[contains(@class,'row row-cards')]/div[contains(@class,'col-4')]/div[contains(@class,'card card-sm')]",
   "homeVodName": "/div[contains(@class,'card-body')]/h3/text()",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/(\\S+).htm",
@@ -33,7 +33,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/a/span[contains(@class,'badge')]/text()",
   "cateUrl": "https://www.mp4er.cc/s/{cateId}/{catePg}",
-  "cateVodNode": "//div[contains(@class,'row.row-cards')]/div[contains(@class,'col-lg-8')]/div[contains(@class,'card.card-sm')]",
+  "cateVodNode": "//div[contains(@class,'row row-cards')]/div[contains(@class,'col-lg-8')]/div[contains(@class,'card card-sm')]",
   "cateVodName": "/div[@class='card-body']/h3/text()",
   "cateVodId": "/a/@href",
   "cateVodIdR": "/(\\S+).htm",
