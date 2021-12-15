@@ -32,7 +32,7 @@
  "dtArea":  "//div[contains(@class,'video-info-aux')]/a[3]/text()",
  "dtActor": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '主演')]/following-sibling::div/a/text()",
  "dtDirector": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '导演')]/following-sibling::div/a/text()",
- "dtDesc": "/div[@class='video-info-items']/div[@class='video-info-item video-info-content vod_content']/span/text()",
+ "dtDesc": "//div[@class='video-info-items']/div[@class='video-info-item video-info-content vod_content']/span/text()",
  "dtFromNode": "//div[contains(@class, 'module-tab-content')]/div[contains(@class, 'module-tab-item')]/span",
  "dtFromName": "/text()",
  "dtUrlNode": "//div[contains(@class, 'module-blocklist')]",
