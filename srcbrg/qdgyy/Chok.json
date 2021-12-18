@@ -29,7 +29,7 @@
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]//li//a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
-  "cateVodIdR": "/voddetail/(\\w+).html",
+  "cateVodIdR": "/voddetail/(\\d+).html",
   "cateVodImg": "/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
