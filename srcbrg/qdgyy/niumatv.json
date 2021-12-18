@@ -7,7 +7,7 @@
 	  "綜藝":"3",
 	  "動漫":"4"
 	},
-  "homeVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a/[@class='stui-vodlist__thumb lazyload']",
+  "homeVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a[@class='stui-vodlist__thumb lazyload']",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/vod/(\\d+).html",
@@ -15,7 +15,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,pic-text text-right')]/b/text()",
   "cateUrl": "http://www.niumatv.com/type/{cateId}-{catePg}.html",
-  "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a/[@class='stui-vodlist__thumb lazyload']",
+  "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div/a[@class='stui-vodlist__thumb lazyload']",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/vod/(\\d+).html",
