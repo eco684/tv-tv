@@ -42,7 +42,7 @@
   "dtDirectorR": "",
   "dtDesc": "//div[contains(@class,'stui-content__detail')]/p[@class='desc detail']/span[@class='detail-sketch']/text()",
   "dtDescR": "",
-  "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')],
+  "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
