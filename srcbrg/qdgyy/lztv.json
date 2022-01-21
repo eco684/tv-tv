@@ -30,7 +30,7 @@
   "dtNode": "//body",
   "dtName": "//div[@class='data']/h4/text()",
   "dtNameR": "",
-  "dtImg": "//div[@class='dbox']/div[contains(@class,'img item-lazy')]/@data-original",
+  "dtImg": "//div[@class='dbox']/div[contains(@class,'img')]/@data-original",
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "",
   "dtCateR": "",
