@@ -2,6 +2,7 @@
 	"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.av01.tv",
   "cateManual": {"新上市": "videos?o=rd",
+  	             "FC2": "videos?maker=FC2&id=52660&",
   	             "DOCP": "videos?search_query=DOCP&",
                  "HUN": "videos?search_query=hun&",
   	             "本中": "videos?maker=%E6%9C%AC%E4%B8%AD&",
