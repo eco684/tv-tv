@@ -18,9 +18,9 @@
     //"http://www.lezhutv.com/vodshow/{cateId}--------{catePg}---.html[firstPage=第一页不含页码的链接]",
     "分类链接": "https://sextb.net{cateId}pg-{catePg}",
     //分类名，分类1&分类2&分类3
-    "分类名称": "DOC&本中&nhdtb&SW&huntb",
+    "分类名称": "DOC&本中&hunter&SW&SOD",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "分类名称替换词": "/studio/doc/&/label/honnaka/&/search/nhdtb/&/search/sw/&/search/huntb/",
+    "分类名称替换词": "/studio/doc/&/label/honnaka/&/studio/hunter/&/studio/switch/&/studio/sod-create/",
     //筛选数据，json格式，参考xpath的筛选写法
     "筛选数据":{},
     
@@ -64,7 +64,7 @@
     //是否开启手动嗅探，只对网页嗅探有效，0否，1是
     "是否开启手动嗅探":"0",
     //手动嗅探视频链接关键词，每个用#隔开
-    "手动嗅探视频链接关键词":".m3u8#",
+    "手动嗅探视频链接关键词":".m3u8",
     //手动嗅探视频链接过滤关键词,每个用#隔开
     "手动嗅探视频链接过滤词":".html#=http"
 }
