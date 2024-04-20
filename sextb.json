@@ -18,9 +18,9 @@
     //"http://www.lezhutv.com/vodshow/{cateId}--------{catePg}---.html[firstPage=第一页不含页码的链接]",
     "分类链接": "https://sextb.net{cateId}pg-{catePg}",
     //分类名，分类1&分类2&分类3
-    "分类名称": "DOC&本中&hunter&SW&SOD",
+    "分类名称": "NEW碼&NEW無&DOC&本中&hunter&SW&SOD&FC2",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "分类名称替换词": "/studio/doc/&/label/honnaka/&/studio/hunter/&/studio/switch/&/studio/sod-create/",
+    "分类名称替换词": "/censored/&/uncensored/&/studio/doc/&/studio/honnaka/&/studio/hunter/&/studio/switch/&/studio/sod-create/&/studio/fc2ppv/",
     //筛选数据，json格式，参考xpath的筛选写法
     "筛选数据":{},
     
